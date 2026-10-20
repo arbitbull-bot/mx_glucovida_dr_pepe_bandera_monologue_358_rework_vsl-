@@ -1,0 +1,9 @@
+#container_video{max-width:600px;isolation:isolate}
+#play h4{font-size:clamp(16px,3.5vw,23px);line-height:1.4;margin:8px 0}
+#play>div{max-width:90%}
+.loading{margin:0;text-align:center;color:white;font-weight:700;font-size:20px}
+#order{max-width:100%;padding:0;border:0}
+#order input{margin:0}
+#order input[type=hidden]{display:none}
+#order button{width:100%}
+.core-title{overflow-wrap:break-word}
